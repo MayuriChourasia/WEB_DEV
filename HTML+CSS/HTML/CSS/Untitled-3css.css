@@ -1,0 +1,12 @@
+.big{
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial;
+    margin-right: 9px;
+}
+
+.usd{
+    font-size: small;
+    font-family: Arial;
+    color: gray;
+}

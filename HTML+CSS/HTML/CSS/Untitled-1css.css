@@ -1,0 +1,25 @@
+.tahoma{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: x-large;
+    margin-bottom: 9px;
+}
+
+.Tuesday{
+    font-family: Arial;
+    color: gray;
+    margin-top: 0px;
+}
+
+.started{
+    background-color: green;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 0px;
+    font-size: small;
+
+}
